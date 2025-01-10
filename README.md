@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://deepeshpurushottamprajapati.netlify.app/](https://deepeshpurushottamprajapati.netlify.app/)
 
-- 💬 Ask me about **Java, Spring Boot, MySql, HTML, CSS, Bootstrap, Javascript, Servlet & JSP, JIRA**
+- 💬 Ask me about **Java, Spring Boot, MySql, HTML, CSS, Bootstrap, Javascript, Servlet & JSP, JIRA, Postman**
 
 - 📫 How to reach me **prajapatideepesh055@gmail.com**
 
