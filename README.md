@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Deepesh Prajapati</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- View my profile [https://deepeshpurushottamprajapati.netlify.app/](https://deepeshpurushottamprajapati.netlify.app/)
+<a href="https://deepeshpurushottamprajapati.netlify.app/"><h3 align="center">🧿 My Portfolio</h3></a>
 
 <img src="https://www.wscubetech.com/blog/wp-content/uploads/2024/04/generative-ai.webp" alt="Image not found">
 
