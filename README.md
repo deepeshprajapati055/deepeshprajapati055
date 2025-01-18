@@ -5,7 +5,9 @@
   <a href="https://deepeshpurushottamprajapati.netlify.app/"><strong>🧿 My Portfolio</strong></a>
 </h3>
 
-<img align="center" src="https://github.com/user-attachments/assets/74f8a47d-161f-4737-88f0-870229bfa042" alt="Image not found">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/74f8a47d-161f-4737-88f0-870229bfa042" alt="Image not found">
+</div>
 
 - 🌱 I’m currently learning **Spring Boot**
 
