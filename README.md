@@ -5,8 +5,7 @@
   <a href="https://deepeshpurushottamprajapati.netlify.app/"><strong>🧿 My Portfolio</strong></a>
 </h3>
 
-<img src="https://www.wscubetech.com/blog/wp-content/uploads/2024/04/generative-ai.webp" alt="Image not found">
-![Image](https://github.com/user-attachments/assets/74f8a47d-161f-4737-88f0-870229bfa042)
+<img src="https://github.com/user-attachments/assets/74f8a47d-161f-4737-88f0-870229bfa042" alt="Image not found">
 
 - 🌱 I’m currently learning **Spring Boot**
 
