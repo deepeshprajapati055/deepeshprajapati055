@@ -48,7 +48,7 @@
   <br>
   
   <div align="center">
-    <details open>
+    <details>
       <summary><b>🎯 Backend Development</b></summary>
       <br/>
       <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" width="100" height="40"/></a>
@@ -57,8 +57,7 @@
       <a href="#"><img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=plastic&logo=Hibernate&logoColor=white" width="130" height="40"/></a>
       <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=MySQL&logoColor=white" width="120" height="40"/></a>
     </details>
-
-    <details open>
+    <details>
       <summary><b>🎯 Frontend Development</b></summary>
       <br/>
       <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" width="110" height="40"/></a>
@@ -66,8 +65,7 @@
       <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" width="140" height="40"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=plastic&logo=Bootstrap&logoColor=white" width="140" height="40"/></a>
     </details>
-
-    <details open>
+    <details>
       <summary><b>🎯 Tools & Platforms</b></summary>
       <br/>
       <a href="#"><img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=Git&logoColor=white" width="90" height="40"/></a>
@@ -77,7 +75,7 @@
       <a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=plastic&logo=Eclipse-IDE&logoColor=white" width="150" height="40"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=plastic&logo=Jira&logoColor=white" width="100" height="40"/></a>
     </details>
-  </div>
+</div>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
   
