@@ -1,10 +1,6 @@
 [<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Deepesh+Prajapati;A+Passionate+Software+Developer;Always+Learning+New+Things!" alt="Typing SVG" />](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</div>
-
-<div align="center">
     <a href="https://deepeshpurushottamprajapati.netlify.app/">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
     </a>
