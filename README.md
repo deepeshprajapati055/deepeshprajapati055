@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello!+%F0%9F%91%8B+I'm+Deepesh;Software+Developer;Backend+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello!+%F0%9F%91%8B+I'm+Deepesh+Prajapati;Software+Developer;Backend+Developer)](https://git.io/typing-svg)
 
   <a href="https://github.com/deepeshprajapati055">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
